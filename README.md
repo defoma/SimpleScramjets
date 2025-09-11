@@ -1,5 +1,5 @@
 # SimpleScramjets
-_Patches for the quarter-scale size of the Sol mod by ballisticfox for Kerbal Space Program._
+_Adds scramjets to Kerbal Space Program._
 
 ## Features
 * JX-7 "Vertigo" Turbo Scramjet Engine
